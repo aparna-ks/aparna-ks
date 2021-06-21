@@ -1,7 +1,6 @@
 - 👋 Hi, I’m aparna
-- 👀 I’m interested in data, analytics, bi & engg.
-- 🌱 I’m currently learning ☝️
-- 💞️ Looking to collaborate on interesting data projects
+- 👀 I do a bit of most of data things - explore, organize, store, analyze etc.
+- 🌱 I’m currently doing data things and reading about non-data things
 
 
 <!---
